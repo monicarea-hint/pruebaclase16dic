@@ -1,3 +1,4 @@
+<h1 style="text-align: center; color: rgb(30, 210, 150);">Instituto Superior Tecnológico “Compu Sur”, con condición de Superior Universitario</h1>
 <img src="https://raw.githubusercontent.com/DarwinChamba/AplicacionesEnClase/refs/heads/master/app/src/main/res/drawable/instituto-bg.png" alt="">
 <h1 style="text-align: center; padding: 10px; margin: 10px;">Aplicaciones Android</h1>
 <h2 style= "padding: 10px; margin: 10px;">App Adivinar Número</h2>
