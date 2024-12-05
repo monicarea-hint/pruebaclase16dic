@@ -1,4 +1,4 @@
-https://github.com/DarwinChamba/AplicacionesEnClase/blob/master/WhatsApp%20Image%202024-05-14%20at%208.14.50%20PM.jpeg
+<img src="https://raw.githubusercontent.com/DarwinChamba/AplicacionesEnClase/refs/heads/master/WhatsApp%20Image%202024-05-14%20at%208.14.50%20PM.jpeg" alt="imagen its">
 <h1 style="text-align: center; padding: 10px; margin: 10px;">Aplicaciones Android</h1>
 <h2 style= "padding: 10px; margin: 10px;">App Adivinar Número</h2>
 
