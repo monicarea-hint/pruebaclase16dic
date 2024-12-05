@@ -9,3 +9,9 @@
     
   <img src="https://raw.githubusercontent.com/DarwinChamba/AplicacionesEnClase/refs/heads/master/app/src/main/res/drawable/img_calculadora_app.jpeg" alt="" width=150>
 </div>
+
+<p style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/DarwinChamba/AplicacionesEnClase/refs/heads/master/app/src/main/res/drawable/WhatsApp%20Image%202024-12-05%20at%202.16.31%20PM.jpeg" >
+    
+   <img src="https://raw.githubusercontent.com/DarwinChamba/AplicacionesEnClase/refs/heads/master/app/src/main/res/drawable/img_calculadora_app.jpeg" alt="">
+</p>
