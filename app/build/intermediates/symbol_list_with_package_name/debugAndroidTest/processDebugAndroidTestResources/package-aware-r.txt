@@ -1,3 +1,0 @@
-app.example.pruebagit.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme

@@ -4,6 +4,7 @@ package app.example.pruebagit.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
@@ -25,10 +26,10 @@ public final class ActivityMainBinding implements ViewBinding {
   public final AppCompatButton btnGuess;
 
   @NonNull
-  public final AppCompatButton btnIrNuevaPantalla;
+  public final Button btnIrNuevaPantalla;
 
   @NonNull
-  public final AppCompatButton btnReset;
+  public final Button btnReset;
 
   @NonNull
   public final EditText etGuess;
@@ -43,9 +44,8 @@ public final class ActivityMainBinding implements ViewBinding {
   public final TextView tvFeedback;
 
   private ActivityMainBinding(@NonNull LinearLayout rootView, @NonNull AppCompatButton btnGuess,
-      @NonNull AppCompatButton btnIrNuevaPantalla, @NonNull AppCompatButton btnReset,
-      @NonNull EditText etGuess, @NonNull LinearLayout main, @NonNull TextView tvAttempts,
-      @NonNull TextView tvFeedback) {
+      @NonNull Button btnIrNuevaPantalla, @NonNull Button btnReset, @NonNull EditText etGuess,
+      @NonNull LinearLayout main, @NonNull TextView tvAttempts, @NonNull TextView tvFeedback) {
     this.rootView = rootView;
     this.btnGuess = btnGuess;
     this.btnIrNuevaPantalla = btnIrNuevaPantalla;
@@ -90,13 +90,13 @@ public final class ActivityMainBinding implements ViewBinding {
       }
 
       id = R.id.btnIrNuevaPantalla;
-      AppCompatButton btnIrNuevaPantalla = ViewBindings.findChildViewById(rootView, id);
+      Button btnIrNuevaPantalla = ViewBindings.findChildViewById(rootView, id);
       if (btnIrNuevaPantalla == null) {
         break missingId;
       }
 
       id = R.id.btnReset;
-      AppCompatButton btnReset = ViewBindings.findChildViewById(rootView, id);
+      Button btnReset = ViewBindings.findChildViewById(rootView, id);
       if (btnReset == null) {
         break missingId;
       }

@@ -1,5 +1,5 @@
-app.example.pruebagit.test.app-tracing-1.2.0-0 C:\Users\HP\.gradle\caches\transforms-4\51b801412df90390ea338fca9e952083\transformed\tracing-1.2.0\res
-app.example.pruebagit.test.app-core-1.6.1-1 C:\Users\HP\.gradle\caches\transforms-4\f1de0c4edc1152409866ec97a8de439c\transformed\core-1.6.1\res
+app.example.pruebagit.test.app-tracing-1.2.0-0 C:\Users\HP\.gradle\caches\transforms-4\718a0527d567aec66368752d129f84b6\transformed\tracing-1.2.0\res
+app.example.pruebagit.test.app-core-1.6.1-1 C:\Users\HP\.gradle\caches\transforms-4\e932d8785e5b4b65c1abcf9eb9000769\transformed\core-1.6.1\res
 app.example.pruebagit.test.app-androidTest-2 C:\Users\HP\AndroidStudioProjects\Pruebagit\app\build\generated\res\resValues\androidTest\debug
 app.example.pruebagit.test.app-mergeDebugAndroidTestResources-3 C:\Users\HP\AndroidStudioProjects\Pruebagit\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
 app.example.pruebagit.test.app-mergeDebugAndroidTestResources-4 C:\Users\HP\AndroidStudioProjects\Pruebagit\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir

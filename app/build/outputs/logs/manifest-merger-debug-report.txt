@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:2:1-47:12
+ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:2:1-32:12
 MERGED from [androidx.databinding:viewbinding:8.6.0] C:\Users\HP\.gradle\caches\transforms-4\314ddd99887771ceeeddb66b7c844234\transformed\viewbinding-8.6.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\HP\.gradle\caches\transforms-4\6fde4e1f8a540f4961d644c2770d3d68\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\HP\.gradle\caches\transforms-4\56c934abf9bafdb333f415b38b011e3c\transformed\constraintlayout-2.2.0\AndroidManifest.xml:2:1-9:12
@@ -58,8 +58,8 @@ MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\HP\.gra
 	xmlns:android
 		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:5:5-45:19
-INJECTED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:5:5-45:19
+ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:5:5-30:19
+INJECTED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:5:5-30:19
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\HP\.gradle\caches\transforms-4\6fde4e1f8a540f4961d644c2770d3d68\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\HP\.gradle\caches\transforms-4\6fde4e1f8a540f4961d644c2770d3d68\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\HP\.gradle\caches\transforms-4\56c934abf9bafdb333f415b38b011e3c\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
@@ -100,64 +100,34 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP
 		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:13:9-47
 	android:dataExtractionRules
 		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:7:9-65
-activity#app.example.pruebagit.animaciones.LottieActivity
+activity#app.example.pruebagit.MainActivity2
 ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:15:9-17:40
 	android:exported
 		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:16:13-55
-activity#app.example.pruebagit.adivinarNumero.MainActivity
+		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:16:13-42
+activity#app.example.pruebagit.Juego
 ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:18:9-20:40
 	android:exported
 		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:19:13-56
-activity#app.example.pruebagit.cuentaBanco.ui.RegistroUsuario
-ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:21:9-23:40
+		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:19:13-34
+activity#app.example.pruebagit.MainActivity
+ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:21:9-29:20
 	android:exported
-		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:23:13-37
+		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:23:13-36
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:22:13-59
-activity#app.example.pruebagit.cuentaBanco.ui.PrincipalCuentaBanco
-ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:24:9-26:40
-	android:exported
-		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:26:13-37
-	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:25:13-64
-activity#app.example.pruebagit.cuentaBanco.ui.CuentaBancoActivity
-ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:27:9-29:40
-	android:exported
-		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:29:13-37
-	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:28:13-63
-activity#app.example.pruebagit.calculadora.MainActivity2
-ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:30:9-32:40
-	android:exported
-		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:32:13-37
-	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:31:13-54
-activity#app.example.pruebagit.Juego
-ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:33:9-35:40
-	android:exported
-		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:35:13-37
-	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:34:13-34
-activity#app.example.pruebagit.animaciones.SplashScreen
-ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:36:9-44:20
-	android:exported
-		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:38:13-36
-	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:37:13-53
+		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:22:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:39:13-43:29
+ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:40:17-69
+ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:40:25-66
+		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:42:17-77
+ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:42:27-74
+		ADDED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml:27:27-74
 uses-sdk
 INJECTED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\HP\AndroidStudioProjects\Pruebagit\app\src\main\AndroidManifest.xml
