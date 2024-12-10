@@ -4,11 +4,13 @@
 <p style="font-size:1.5 rem;">¿Buscas iconos? 💙📁🔧🔑💻🎁💾🎉💀   👉 <b><a href="https://gist.github.com/rxaviers/7360908" style="text-decoration: none;">
  Ingresa aqui</a></b> 👈</p>
 
-![Animation - 1709668235245 (1)](https://github.com/user-attachments/assets/39548265-0320-4d5b-add4-2e917df14b32)
- 
 >[!NOTE]
-> <h2 style="text-align: center; padding: 10px; margin: 10px;">Desarrollo de Aplicaciones Mòviles </h2>
-<br><br><br
+> <a href=""> <img src="https://github.com/user-attachments/assets/b37e5a1a-cbe4-4991-bf5d-ace902a5da9d" alt="Animation" width="60" /></a>
+><p>Desarrollo de Aplicaciones Mòviles </p>
+
+<br><br><br>
+
+
 
 <h2 style= "padding: 10px; margin: 10px;">App Adivinar Número 📱</h2>
 
