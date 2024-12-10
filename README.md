@@ -5,8 +5,7 @@
  Ingresa aqui</a></b> 👈</p>
 
 >[!NOTE]
-> <a href=""> <img src="https://github.com/user-attachments/assets/b37e5a1a-cbe4-4991-bf5d-ace902a5da9d" alt="Animation" width="60" /></a>
-><p>Desarrollo de Aplicaciones Mòviles </p>
+> <div style="display: flex; align-items: center; justify-content: center;"> <img src="https://github.com/user-attachments/assets/b37e5a1a-cbe4-4991-bf5d-ace902a5da9d" alt="Animación" width="60" /> <h2 style="margin-left: 10px;">Desarrollo de aplicaciones móviles</h2></div>
 
 <br><br><br>
 
