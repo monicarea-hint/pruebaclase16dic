@@ -1,7 +1,7 @@
 <h1 style="text-align: center;"> Instituto Superior Tecnológico “Compu Sur”, con condición de Superior Universitario 🥇</h1>	
 <img src="https://raw.githubusercontent.com/DarwinChamba/AplicacionesEnClase/refs/heads/master/app/src/main/res/drawable/instituto-bg.png" alt="instituto">
 
-<P>¿Buscas iconos? <b><a href="https://gist.github.com/rxaviers/7360908" style="text-decoration:none;">Ingresa aqui</a></b> </P>
+<p style="font-size:1.5 rem;">¿Buscas iconos? 💙📁🔧🔑💻🎁💾🎉💀 <b><a href="https://gist.github.com/rxaviers/7360908" style="text-decoration: none;">Ingresa aqui</a></b> </p>
 <h1 style="text-align: center; padding: 10px; margin: 10px;">Aplicaciones Android</h1>
 <h2 style= "padding: 10px; margin: 10px;">App Adivinar Número</h2>
 
