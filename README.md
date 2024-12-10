@@ -23,6 +23,6 @@
 >[!IMPORTANT]
 > <p style="text-align: justify; margin: 10px; padding: 10px; font-size: 1.5rem; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">La aplicación <strong>Calculadora Avanzada</strong> , destaca por su robustez y eficiencia. Utiliza técnicas de programación orientada a objetos y patrones de diseño como MVVM, asegurando un código limpio y mantenible. Además, incorpora  funciones personalizadas, lo que demuestra un dominio técnico notable. La interfaz está diseñada con principios de usabilidad y accesibilidad, fomentando habilidades blandas como la empatía hacia el usuario. Esta app es un excelente recurso para desarrolladores que buscan perfeccionar sus competencias técnicas y de diseño.</p>
 
-<img src="https://raw.githubusercontent.com/DarwinChamba/AplicacionesEnClase/refs/heads/master/app/src/main/res/drawable/img_calculadora_app.jpeg" alt="" width=150>
+<img src="https://github.com/DarwinChamba/AplicacionesEnClase/blob/master/app/src/main/res/drawable/img_calculadora_app.jpeg?raw=true" alt="" width=150>
 
  <p>Aplicación realizada en clase <a href="">Descargar Ahora</a> </p>
