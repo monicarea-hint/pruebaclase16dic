@@ -5,10 +5,9 @@
  Ingresa aqui</a></b> 👈</p>
 
 >[!NOTE]
-> <div style="display: flex; align-items: center; justify-content: center;"> <img src="https://github.com/user-attachments/assets/b37e5a1a-cbe4-4991-bf5d-ace902a5da9d" alt="Animación" width="60" /> <h2 style="margin-left: 10px;">Desarrollo de aplicaciones móviles</h2></div>
+> <div style="display: flex; align-items: center; justify-content: center;"> <img src="https://github.com/user-attachments/assets/b37e5a1a-cbe4-4991-bf5d-ace902a5da9d" alt="Animación" width="60" /> <h2 style="margin-left: 10px;"> Desarrollo de aplicaciones móviles</h2></div>
 
 <br><br><br>
-
 
 
 <h2 style= "padding: 10px; margin: 10px;">App Adivinar Número 📱</h2>
