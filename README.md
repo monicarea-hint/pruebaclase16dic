@@ -3,6 +3,8 @@
 
 <p style="font-size:1.5 rem;">¿Buscas iconos? 💙📁🔧🔑💻🎁💾🎉💀   👉 <b><a href="https://gist.github.com/rxaviers/7360908" style="text-decoration: none;">
  Ingresa aqui</a></b> 👈</p>
+
+![Animation - 1709668235245 (1)](https://github.com/user-attachments/assets/39548265-0320-4d5b-add4-2e917df14b32)
  
 >[!NOTE]
 > <h2 style="text-align: center; padding: 10px; margin: 10px;">Desarrollo de Aplicaciones Mòviles </h2>
