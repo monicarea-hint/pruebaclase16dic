@@ -7,6 +7,9 @@
 >[!NOTE]
 > <div style="display: flex; align-items: center; justify-content: center;"> <img src="https://github.com/user-attachments/assets/b37e5a1a-cbe4-4991-bf5d-ace902a5da9d" alt="Animación" width="60" /> <h2 style="margin-left: 10px;"> Desarrollo de aplicaciones móviles</h2></div>
 
+>[!TIP]
+><p>Aplicación realizada en clase 👉 <a href="">  Descargar Ahora</a> 👈 </p>
+
 <br><br><br>
 
 >[!NOTE]
@@ -31,4 +34,57 @@
 
 <img src="https://github.com/DarwinChamba/AplicacionesEnClase/blob/master/app/src/main/res/drawable/img_calculadora_app.jpeg?raw=true" alt="" width=150>
 
- <p>Aplicación realizada en clase <a href="">Descargar Ahora</a> </p>
+ <table style="table-layout: fixed; width: 100%; border-collapse: collapse; border: 1px solid black;">
+        <thead>
+            <tr>
+                <th style="width: 15%; text-align: left;">Concepto</th>
+                <th style="width: 45%; text-align: left;">Descripción</th>
+                <th style="width: 40%; text-align: left;">Ejemplo</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="font-size: 1.2rem; text-align: left;"><b>if/else</b></td>
+                <td>
+                    <p style="padding: 10px; text-align: justify; font-size: 1.2rem;">
+                        La estructura if/else en programación se utiliza para tomar decisiones basadas en condiciones. Si 
+                        <b>if</b> es verdadero, se ejecuta un bloque de código; si es falso, se ejecuta el bloque del <b>else</b>.
+                    </p>
+                </td>
+                <td style="background-color: #f9f9f9; padding: 10px;">
+                  <pre>  <code style="display: block;
+                        white-space: pre-wrap; 
+                        word-wrap: break-word;
+                        font-size: 1rem;">
+    if (condicion) {
+        // Código a ejecutar si la condición es verdadera
+        println("La condición es verdadera")
+    } else {
+        // Código a ejecutar si la condición es falsa
+        println("La condición es falsa")
+    }
+                    </code></pre>
+                </td>
+            </tr>
+            <tr>
+                <td style="font-size: 1.2rem; text-align: left;"><b>Random()</b></td>
+                <td>
+                    <p style="padding: 10px; text-align: justify; font-size: 1.2rem;">
+                        La clase Random se utiliza para generar números aleatorios. En el contexto del juego 
+                        <b>"Adivina el Número"</b>, se puede usar para seleccionar un número que el usuario debe adivinar.
+                    </p>
+                </td>
+                <td style="background-color: #f9f9f9; padding: 10px;">
+                <pre>   <code style="display: block;
+                        white-space: pre-wrap; 
+                        word-wrap: break-word;
+                        font-size: 1rem;">
+    val numeroAleatorio = Random().nextInt(100) + 1
+    // Genera un número entre 1 y 100
+                    </code></pre> 
+                </td>
+            </tr>
+        </tbody>
+    </table>
+                    
+
