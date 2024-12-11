@@ -10,6 +10,9 @@
 >[!TIP]
 ><p>Aplicación realizada en clase </p>
 >👉 <a href="">  Descargar Ahora</a> 👈 
+<br>
+<h2>App </h2>
+ <img src="https://github.com/user-attachments/assets/58c7e182-10a0-4845-afda-970b46fc72ad" alt="Animación" width="150" />
 
 <br><br><br>
 
