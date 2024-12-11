@@ -1,5 +1,7 @@
 <h1 style="text-align: center;"> Instituto Superior Tecnológico “Compu Sur”, con condición de Superior Universitario 🥇</h1>	
-<img src="https://github.com/DarwinChamba/AplicacionesEnClase/blob/master/app/src/main/res/drawable/instituto-bg.png?raw=true" alt="instituto">
+
+
+ <img src="https://github.com/user-attachments/assets/9013b96f-e8a1-4aec-9d00-dc4cab1c460b" alt="Animación" height="200" />
 
 <p style="font-size:1.5 rem;">¿Buscas iconos? 💙📁🔧🔑💻🎁💾🎉💀   👉 <b><a href="https://gist.github.com/rxaviers/7360908" style="text-decoration: none;">
  Ingresa aqui</a></b> 👈</p>
