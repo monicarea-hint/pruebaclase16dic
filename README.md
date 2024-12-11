@@ -42,5 +42,5 @@
 <img src="https://github.com/DarwinChamba/AplicacionesEnClase/blob/master/app/src/main/res/drawable/img_calculadora_app.jpeg?raw=true" alt="" width=150>
 
 
-                Si <b>if</b> es verdadero, se ejecuta un bloque de código; si es falso, se ejecuta el bloque del <b>else</b>.
+ 
 
