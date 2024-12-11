@@ -13,13 +13,28 @@
         android:theme="@style/Theme.PruebaGit"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity2"
+            android:name=".animaciones.SegundaAnimacion"
+            android:exported="false" />
+        <activity
+            android:name=".adivinarNumero.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".appBanco.CuentaUsuario"
+            android:exported="false" />
+        <activity
+            android:name=".appBanco.IniciarSesion"
+            android:exported="false" />
+        <activity
+            android:name=".appBanco.RegistrarUsuario"
+            android:exported="false" />
+        <activity
+            android:name=".calculadorApp.MainActivity2"
             android:exported="false" />
         <activity
             android:name=".Juego"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".animaciones.SplashScreen"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

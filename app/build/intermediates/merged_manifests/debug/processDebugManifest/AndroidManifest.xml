@@ -28,13 +28,28 @@
         android:testOnly="true"
         android:theme="@style/Theme.PruebaGit" >
         <activity
-            android:name="app.example.pruebagit.MainActivity2"
+            android:name="app.example.pruebagit.animaciones.SegundaAnimacion"
+            android:exported="false" />
+        <activity
+            android:name="app.example.pruebagit.adivinarNumero.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name="app.example.pruebagit.appBanco.CuentaUsuario"
+            android:exported="false" />
+        <activity
+            android:name="app.example.pruebagit.appBanco.IniciarSesion"
+            android:exported="false" />
+        <activity
+            android:name="app.example.pruebagit.appBanco.RegistrarUsuario"
+            android:exported="false" />
+        <activity
+            android:name="app.example.pruebagit.calculadorApp.MainActivity2"
             android:exported="false" />
         <activity
             android:name="app.example.pruebagit.Juego"
             android:exported="false" />
         <activity
-            android:name="app.example.pruebagit.MainActivity"
+            android:name="app.example.pruebagit.animaciones.SplashScreen"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
