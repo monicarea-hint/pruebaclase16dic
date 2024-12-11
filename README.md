@@ -1,7 +1,8 @@
-<h1 style="text-align: center;"> Instituto Superior Tecnológico “Compu Sur”, con condición de Superior Universitario 🥇</h1>	
+<h1 style="text-align: center;"> No te compares con otros programadores. Compárate con el programador que eras ayer y celebra tu progreso continuo🥇</h1>	
 
 
- <img src="https://github.com/user-attachments/assets/9013b96f-e8a1-4aec-9d00-dc4cab1c460b" alt="Animación" height="200" />
+ <img src="https://github.com/user-attachments/assets/9013b96f-e8a1-4aec-9d00-dc4cab1c460b" alt="Animación" height="275" />
+ <br><br>
 
 <p style="font-size:1.5 rem;">¿Buscas iconos? 💙📁🔧🔑💻🎁💾🎉💀   👉 <b><a href="https://gist.github.com/rxaviers/7360908" style="text-decoration: none;">
  Ingresa aqui</a></b> 👈</p>
@@ -13,7 +14,7 @@
 ><p>Aplicación realizada en clase </p>
 >👉 <a href="">  Descargar Ahora</a> 👈 
 <br>
-<h2>App </h2>
+<h2>App Gneral</h2>
  <img src="https://github.com/user-attachments/assets/58c7e182-10a0-4845-afda-970b46fc72ad" alt="Animación" width="150" />
 
 <br><br><br>
