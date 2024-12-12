@@ -8,6 +8,8 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import app.example.pruebagit.R
 import app.example.pruebagit.appBanco.CuentaUsuario
+import app.example.pruebagit.appBanco.IniciarSesion
+import app.example.pruebagit.appBanco.RegistrarUsuario
 
 class SegundaAnimacion : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -23,7 +25,7 @@ class SegundaAnimacion : AppCompatActivity() {
     }
     fun navegarPantalla(){
         val handler= android.os.Handler().postDelayed({
-            startActivity(Intent(this,CuentaUsuario::class.java))
+            startActivity(Intent(this,IniciarSesion::class.java))
             finish()
         },2500)
     }

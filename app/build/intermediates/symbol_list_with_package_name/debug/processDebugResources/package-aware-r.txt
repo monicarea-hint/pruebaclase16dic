@@ -3242,8 +3242,10 @@ id bounceEnd
 id bounceStart
 id btnDividir
 id btnGuess
+id btnInciarSesion
 id btnIrNuevaPantalla
 id btnMultiplicar
+id btnRegistrar
 id btnReset
 id btnRestar
 id btnSumar
@@ -3472,12 +3474,14 @@ id neverCompleteToEnd
 id neverCompleteToStart
 id noScroll
 id noState
+id nombreUsuario
 id none
 id normal
 id north
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id numeroCedula
 id off
 id on
 id onInterceptTouchReturnSwipe
@@ -3504,6 +3508,8 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
+id passwordInicio
+id passwordUsuario
 id password_toggle
 id path
 id pathRelative
@@ -3528,6 +3534,7 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
+id saldoUsuario
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -3621,6 +3628,7 @@ id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
 id time
+id tipoCuentaUsuario
 id title
 id titleDividerNoCustom
 id title_template
@@ -3642,11 +3650,14 @@ id triangle
 id tvAttempts
 id tvFeedback
 id tvMostrarRespuesta
+id tvNoTengoCuenta
+id tvTengoCuenta
 id unchecked
 id uniform
 id unlabeled
 id up
 id useLogo
+id usuarioInico
 id vertical
 id vertical_only
 id vidas

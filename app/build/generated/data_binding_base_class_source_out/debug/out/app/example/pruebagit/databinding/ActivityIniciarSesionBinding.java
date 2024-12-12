@@ -4,30 +4,52 @@ package app.example.pruebagit.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.LinearLayout;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import app.example.pruebagit.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
+import java.lang.String;
 
 public final class ActivityIniciarSesionBinding implements ViewBinding {
   @NonNull
-  private final ConstraintLayout rootView;
+  private final LinearLayout rootView;
 
   @NonNull
-  public final ConstraintLayout main;
+  public final Button btnInciarSesion;
 
-  private ActivityIniciarSesionBinding(@NonNull ConstraintLayout rootView,
-      @NonNull ConstraintLayout main) {
+  @NonNull
+  public final LinearLayout main;
+
+  @NonNull
+  public final EditText passwordInicio;
+
+  @NonNull
+  public final TextView tvNoTengoCuenta;
+
+  @NonNull
+  public final EditText usuarioInico;
+
+  private ActivityIniciarSesionBinding(@NonNull LinearLayout rootView,
+      @NonNull Button btnInciarSesion, @NonNull LinearLayout main, @NonNull EditText passwordInicio,
+      @NonNull TextView tvNoTengoCuenta, @NonNull EditText usuarioInico) {
     this.rootView = rootView;
+    this.btnInciarSesion = btnInciarSesion;
     this.main = main;
+    this.passwordInicio = passwordInicio;
+    this.tvNoTengoCuenta = tvNoTengoCuenta;
+    this.usuarioInico = usuarioInico;
   }
 
   @Override
   @NonNull
-  public ConstraintLayout getRoot() {
+  public LinearLayout getRoot() {
     return rootView;
   }
 
@@ -48,12 +70,40 @@ public final class ActivityIniciarSesionBinding implements ViewBinding {
 
   @NonNull
   public static ActivityIniciarSesionBinding bind(@NonNull View rootView) {
-    if (rootView == null) {
-      throw new NullPointerException("rootView");
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.btnInciarSesion;
+      Button btnInciarSesion = ViewBindings.findChildViewById(rootView, id);
+      if (btnInciarSesion == null) {
+        break missingId;
+      }
+
+      LinearLayout main = (LinearLayout) rootView;
+
+      id = R.id.passwordInicio;
+      EditText passwordInicio = ViewBindings.findChildViewById(rootView, id);
+      if (passwordInicio == null) {
+        break missingId;
+      }
+
+      id = R.id.tvNoTengoCuenta;
+      TextView tvNoTengoCuenta = ViewBindings.findChildViewById(rootView, id);
+      if (tvNoTengoCuenta == null) {
+        break missingId;
+      }
+
+      id = R.id.usuarioInico;
+      EditText usuarioInico = ViewBindings.findChildViewById(rootView, id);
+      if (usuarioInico == null) {
+        break missingId;
+      }
+
+      return new ActivityIniciarSesionBinding((LinearLayout) rootView, btnInciarSesion, main,
+          passwordInicio, tvNoTengoCuenta, usuarioInico);
     }
-
-    ConstraintLayout main = (ConstraintLayout) rootView;
-
-    return new ActivityIniciarSesionBinding((ConstraintLayout) rootView, main);
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }
