@@ -1,5 +1,6 @@
 package app.example.pruebagit.appBanco
 
+import android.content.Intent
 import android.os.Bundle
 import android.widget.EditText
 import android.widget.Toast
@@ -40,6 +41,7 @@ class RegistrarUsuario : AppCompatActivity() {
         val usuario= Usuario(id++,"",nombre,0f,"",pass,"")
         Data.data.add(usuario)
         Toast.makeText(this, "usuario registrado", Toast.LENGTH_SHORT).show()
-        println("usuario registardo ${usuario.nombre} ${usuario.id} ")
+
     }
+
 }

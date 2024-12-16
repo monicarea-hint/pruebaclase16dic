@@ -1,6 +1,10 @@
 package app.example.pruebagit.appBanco.data
 
- class Usuario (
+import android.os.Parcelable
+import kotlinx.parcelize.Parcelize
+
+@Parcelize
+ data class Usuario (
      val id:Int,
      val numeroCedula:String,
      val nombre:String,
@@ -8,6 +12,6 @@ package app.example.pruebagit.appBanco.data
      val tipoCuenta:String,
      val password:String,
      val imagen:String
- ){
- }
+ ):Parcelable
+
 

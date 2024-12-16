@@ -51,4 +51,6 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
     //lottie
     implementation(libs.android.lottie)
+    //gson
+    implementation(libs.android.gson)
 }
