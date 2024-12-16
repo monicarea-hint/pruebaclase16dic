@@ -294,6 +294,10 @@ attr circularflow_defaultAngle
 attr circularflow_defaultRadius
 attr circularflow_radiusInDP
 attr circularflow_viewCenter
+attr civ_border_color
+attr civ_border_overlay
+attr civ_border_width
+attr civ_circle_background_color
 attr clearsTag
 attr clickAction
 attr clockFaceBackgroundColor
@@ -3055,7 +3059,10 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_salir
 drawable ic_search_black_24
+drawable ic_transferir
+drawable image_perfil
 drawable img_calculadora_app
 drawable indeterminate_static
 drawable instituto_bg
@@ -3132,6 +3139,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable parcelable
 drawable primero
 drawable test_level_drawable
 drawable tooltip_frame_dark
@@ -3240,6 +3248,7 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btnBuscarUsuario
 id btnDividir
 id btnGuess
 id btnInciarSesion
@@ -3249,10 +3258,13 @@ id btnRegistrar
 id btnReset
 id btnRestar
 id btnSumar
+id btnTranfesrir
 id buttonPanel
 id cache_measures
 id callMeasure
 id cancel_button
+id cardRetirar
+id cardTransferir
 id carryVelocity
 id center
 id centerCrop
@@ -3331,9 +3343,11 @@ id endToStart
 id enterAlways
 id enterAlwaysCollapsed
 id escape
+id etCantidadDepositar
 id etGuess
 id etNum1
 id etNum2
+id etUsuarioEncontrado
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -3378,6 +3392,10 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageSalir
+id imageViewC
+id imagenNombreLayout
+id imagenUsuarioBuscado
 id img1
 id img2
 id immediateStop
@@ -3392,6 +3410,8 @@ id jumpToEnd
 id jumpToStart
 id labeled
 id layout
+id layoutContenidoCantidad
+id layoutTransferir
 id left
 id leftToRight
 id legacy
@@ -3648,10 +3668,14 @@ id transition_scene_layoutid_cache
 id transition_transform
 id triangle
 id tvAttempts
+id tvCantidadTitle
 id tvFeedback
 id tvMostrarRespuesta
 id tvNoTengoCuenta
+id tvNombreUsuarioB
+id tvSaldoUsuario
 id tvTengoCuenta
+id tvTitleNumeroCuenta
 id unchecked
 id uniform
 id unlabeled
@@ -5220,6 +5244,7 @@ styleable Carousel carousel_alignment carousel_backwardTransition carousel_empty
 styleable CheckedTextView android_checkMark checkMarkCompat checkMarkTint checkMarkTintMode
 styleable Chip android_textAppearance android_textSize android_textColor android_ellipsize android_maxWidth android_text android_checkable checkedIcon checkedIconEnabled checkedIconTint checkedIconVisible chipBackgroundColor chipCornerRadius chipEndPadding chipIcon chipIconEnabled chipIconSize chipIconTint chipIconVisible chipMinHeight chipMinTouchTargetSize chipStartPadding chipStrokeColor chipStrokeWidth chipSurfaceColor closeIcon closeIconEnabled closeIconEndPadding closeIconSize closeIconStartPadding closeIconTint closeIconVisible ensureMinTouchTargetSize hideMotionSpec iconEndPadding iconStartPadding rippleColor shapeAppearance shapeAppearanceOverlay showMotionSpec textEndPadding textStartPadding
 styleable ChipGroup checkedChip chipSpacing chipSpacingHorizontal chipSpacingVertical selectionRequired singleLine singleSelection
+styleable CircleImageView civ_border_color civ_border_overlay civ_border_width civ_circle_background_color
 styleable CircularProgressIndicator indicatorDirectionCircular indicatorInset indicatorSize
 styleable ClockFaceView clockFaceBackgroundColor clockNumberTextColor
 styleable ClockHandView clockHandColor materialCircleRadius selectorSize

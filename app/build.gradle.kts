@@ -53,4 +53,6 @@ dependencies {
     implementation(libs.android.lottie)
     //gson
     implementation(libs.android.gson)
+    //circle image
+    implementation(libs.android.circle)
 }
